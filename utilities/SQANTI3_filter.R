@@ -1,6 +1,8 @@
 # Cecile Pereira, Lorena de la Fuente, Francisco Pardo Palacios, Leandro Balzano-Nogueira
-Francisco J. Pardo <f.pardo.palacios@gmail.com>
-Leandro Balzano_Nogueira <leobalzano@ufl.edu>
+# Francisco J. Pardo <f.pardo.palacios@gmail.com>
+# Universitat Politècnica de València (UPV)
+# Leandro Balzano_Nogueira <leobalzano@ufl.edu>
+# University of Florida (UF)
 
 ########################
 # Package requirements #
